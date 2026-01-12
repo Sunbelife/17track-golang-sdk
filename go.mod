@@ -1,4 +1,4 @@
-module github.com/wksw/17track-golang-sdk
+module github.com/Sunbelife/17track-golang-sdk/v2
 
 go 1.15
 
